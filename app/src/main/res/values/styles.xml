@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SolenoidSmartLockConsole" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#7E8280</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:colorAccent">#0C7071</item>
+    </style>
+</resources>
