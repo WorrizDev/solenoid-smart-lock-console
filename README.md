@@ -2,6 +2,14 @@
 
 Native Android prototype for controlling an ESP32-based solenoid lock over Wi-Fi and Bluetooth. The first version focuses on a Compose console UI, MVVM state handling, and placeholder-ready communication classes.
 
+## Download APK
+
+Download the latest Android install file from GitHub Releases:
+
+[Download solenoid-smart-lock-console-debug.apk](https://github.com/WorrizDev/solenoid-smart-lock-console/releases/latest/download/solenoid-smart-lock-console-debug.apk)
+
+Use the release download link above on Android. It keeps the filename ending in `.apk`, which avoids Android saving the installer as a generic `.bin` file.
+
 ## Features
 
 - Jetpack Compose and Material 3 lock console UI.
